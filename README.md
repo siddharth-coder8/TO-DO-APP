@@ -1,10 +1,8 @@
 <div align='center'>
 <img src='/assets/icons/icon.png' width='150'/>
-  <h1>SVECTOR</h1> 
   <br>
 <h2>📝 TO DO APP</h2>
 </div>
-
 <p align='center'> Tired of task chaos? TO DO keeps you in control. 📱📅✅ </p>
 
 ### 📚 Features to Simplify Your Life
@@ -33,5 +31,5 @@ Our app not only enhances productivity but also offers an intuitive and visually
 
 ### 📃 License
 
-This project is licensed under the [SVECTOR License].
+This project is licensed under the [License].
 
